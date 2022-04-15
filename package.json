@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js ./test",
     "cli": "node cli.js ./arquivos/texto1.md"
   },
   "keywords": [],
@@ -15,5 +15,8 @@
     "chalk": "^5.0.1",
     "node-fecth": "0.0.1-security",
     "node-fetch": "^3.2.3"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
   }
 }
