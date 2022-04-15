@@ -1,1 +1,0 @@
-(GO)[Jandrei],(LD)[Rafinha], (ZAG)[Diego Costa], (ZAG)[Leo], (LE)[Reinaldo], (MC)[Gomes], (MC)[Nestor], (VOL)[Pablo], (MC)[Alisson], (ATA)[Luciano], (ATA)[Eder]
